@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SqliteLogin</string>
+    <string name="hello">Hello World, SQLiteLoginActivity!</string>
+</resources>
